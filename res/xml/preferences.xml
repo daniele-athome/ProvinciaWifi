@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" android:orderingFromXml="true">
+<EditTextPreference
+    android:dialogTitle="@string/title_input_ssid"
+    android:positiveButtonText="@android:string/ok"
+    android:negativeButtonText="@android:string/cancel"
+    android:title="@string/title_input_ssid"
+    android:key="ssid"
+    android:summary="@string/subtitle_input_ssid"
+    android:defaultValue="provinciawifi"
+    android:inputType="textUri"
+    android:singleLine="true"/>
+<EditTextPreference
+    android:dialogTitle="@string/title_input_username"
+    android:positiveButtonText="@android:string/ok"
+    android:negativeButtonText="@android:string/cancel"
+    android:key="username"
+    android:title="@string/title_input_username"
+    android:summary="@string/subtitle_input_username"
+    android:singleLine="true"/>
+<EditTextPreference
+    android:dialogTitle="@string/title_input_password"
+    android:positiveButtonText="@android:string/ok"
+    android:negativeButtonText="@android:string/cancel"
+    android:key="password"
+    android:singleLine="true"
+    android:inputType="textPassword"
+    android:title="@string/title_input_password"/>
+</PreferenceScreen>

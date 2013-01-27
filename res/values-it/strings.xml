@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">ProvinciaWiFi</string>
+<string name="title_input_ssid">SSID di rete</string>
+
+<string name="subtitle_input_ssid">Rete WiFi alla quale connettersi</string>
+<string name="title_input_username">Nome utente</string>
+<string name="title_input_password">Password</string>
+<string name="menu_retry_login">Riprova login</string>
+<string name="msg_insert_credentials">Devi configurare le credenziali di accesso.</string>
+<string name="msg_logged_in">Autenticato in ProvinciaWiFi.</string>
+<string name="msg_login_error">Errore durante l\'autenticazione in ProvinciaWiFi.</string>
+<string name="msg_not_insert_credentials">Rete ProvinciaWiFi rilevata!</string>
+<string name="subtitle_input_username">Premi Menu per riprovare l\'accesso</string>
+</resources>

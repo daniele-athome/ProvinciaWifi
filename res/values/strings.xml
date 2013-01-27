@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">ProvinciaWiFi</string>
+<string name="title_input_ssid">Network SSID</string>
+
+<string name="subtitle_input_ssid">WiFi network to log into</string>
+<string name="title_input_username">Username</string>
+<string name="title_input_password">Password</string>
+<string name="menu_retry_login">Retry login</string>
+<string name="msg_insert_credentials">Please configure your login credentials.</string>
+<string name="msg_logged_in">Logged into ProvinciaWiFi.</string>
+<string name="msg_login_error">Unable to log into ProvinciaWiFi.</string>
+<string name="msg_not_insert_credentials">ProvinciaWiFi network detected!</string>
+<string name="subtitle_input_username">Press Menu to retry login</string>
+</resources>
